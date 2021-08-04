@@ -1,0 +1,37 @@
+/**
+ * @name AyuMirage
+ * @description Ayu Mirage color pallete for Discord
+ * @author yonderbread
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @source https://github.com/yonderbread/ayu-betterdiscord
+ * @updateUrl https://yonderbread.github.io/ayu-betterdiscord/AyuMirage.theme.css
+ */
+
+@import url(https://yonderbread.github.io/ayu-betterdiscord/base.css);
+
+:root {
+	--font: 					Jost, Helvetica Neue, Helvetica, Arial, sans-serif;
+	--settingsicons:			1;
+	--accentcolor:  			57,186,230;   /*	blurple	        */
+	--accentcolor2:  			240,113,120;  /*	boostpink       */
+	--linkcolor:  				89,194,255;	  /*	urls/links      */
+	--mentioncolor:  			255,238,153;  /*	hightlights   	*/
+	--successcolor:  			44,217,76;	  /*	success         */
+	--warningcolor:  			230,180,80;	  /*	warning         */
+	--dangercolor:   			255,51,51;	  /*	danger       	*/
+	
+	--textbrightest: 			255,255,255;  /*	text shade 1	*/
+	--textbrighter: 			222,222,222;  /*	text shade 2	*/
+	--textbright: 				185,185,185;  /*	text shade 3	*/
+	--textdark: 				140,140,140;  /*	text shade 4	*/
+	--textdarker: 				115,115,115;  /*	text shade 5	*/
+	--textdarkest: 				80,80,80;	  /*	text shade 6	*/
+	
+	--backgroundaccent:  		77,85,102;	  /*	bg accent       */
+	--backgroundprimary:  		10,14,20;	  /*	bg 1		    */
+	--backgroundsecondary:  	0,1,10;		  /*	bg 2        	*/
+	--backgroundsecondaryalt:  	13,16,22;	  /*	bg 3     		*/
+	--backgroundtertiary:  		3,6,12;		  /*	bg 4            */
+	--backgroundfloating:  		77,85,102;	  /*	bg floating     */
+}
